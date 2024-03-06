@@ -1,0 +1,48 @@
+17:46:17.642 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:46:17.658 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:46:17.658 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:46:17.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:46:17.674 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:46:17.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:46:17.689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:46:17.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:46:17.698 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:46:17.708 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:46:19.421 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:46:19.430 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:46:30.503 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:46:30.505 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:46:41.552 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:46:41.568 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:46:52.477 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:46:52.488 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:46:53.793 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:49:08.530 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\mastersuite.xml"
+17:49:11.478 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+17:49:11.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+17:49:12.009 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+17:49:12.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+17:49:12.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+17:49:15.408 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+17:49:15.479 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:49:15.481 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+17:49:15.481 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+17:49:17.576 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+17:49:17.576 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:49:18.219 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+17:49:18.617 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:49:18.620 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:49:19.260 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+17:49:19.351 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+17:49:55.616 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\final.xml"
+17:49:56.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\final.xml
+
+17:49:59.731 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+17:49:59.732 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:50:09.131 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+17:50:09.637 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:50:09.638 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:50:10.345 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+17:50:10.473 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+18:18:32.122 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\final.xml"

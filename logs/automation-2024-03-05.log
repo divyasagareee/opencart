@@ -1,0 +1,55 @@
+21:00:53.558 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:00:54.043 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:00:54.045 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:00:54.679 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:00:54.777 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:09:28.794 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\test-output\testng-failed.xml"
+21:09:29.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\test-output\testng-failed.xml
+
+21:09:31.928 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:09:31.928 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+21:09:32.573 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:09:33.020 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:09:33.022 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:09:33.682 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:09:33.736 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:12:23.083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\final.xml"
+21:12:23.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\final.xml
+
+21:12:27.843 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+21:12:27.844 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:12:28.531 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:12:29.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:12:29.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:12:32.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:12:32.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:12:32.275 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+21:12:32.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+21:12:35.012 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:12:35.012 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+21:12:35.667 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:12:36.143 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:12:36.145 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:12:36.838 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:12:36.899 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:23:46.466 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\master.xml"
+21:23:46.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\master.xml
+
+21:23:52.382 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+21:23:52.382 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:23:52.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:23:53.246 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:23:53.246 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:23:56.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:23:56.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:23:59.236 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:23:59.236 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+21:23:59.838 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:24:00.313 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:24:00.330 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:24:01.021 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:24:01.094 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+22:40:48.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Urame\Desktop\Selenium Webdriver\Elicpse Workspace\opencart\master.xml"
